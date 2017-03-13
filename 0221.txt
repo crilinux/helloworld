@@ -1,0 +1,14 @@
+00 03 * * *  ~/dailyJob/dailyJob.sh prodauth_b2b>/dev/null 2>&1
+00 04 * * *  ~/dailyJob/dailyJob.sh prodauth-midnight>/dev/null 2>&1
+00 07 * * * ~/dailyJob/dailyJob.sh prodauth>/dev/null 2>&1
+00 18 * * * ~/dailyJob/dailyJob.sh prodauth>/dev/null 2>&1
+
+*=info:com.ibm.commerce.foundation.logging.ServiceLogger=finest:com.ibm.commerce.seo.*=all
+
+hello OSS , Qiubin ask to restart web server 1 and 2 , could you give me IN number ?
+
+Commerce default certificate was updated, which caused authentication failure. After regenerating the saml metadata file (Mitel updated new file on their backend server) issue got resolved. AdminTask.exportSAMLSpMetadata('-spMetadataFileName /tmp/spdata.xml -ssoId 1')https://www.ibm.com/support/knowledgecenter/SSAW57_8.0.0/com.ibm.websphere.nd.doc/info/ae/ae/twbs_exportsamlspmetadata.html
+
+ssh -o BatchMode=yes -o StrictHostKeyChecking=no supar01eurwclapp01.par01.caas.local id
+
+ssh -o BatchMode=yes -o StrictHostKeyChecking=no dusjc01cinguiweb01.sjc01.caas.local id
