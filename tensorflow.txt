@@ -1,0 +1,13 @@
+tensorflow
+
+https://www.continuum.io/downloads
+https://repo.continuum.io/archive/Anaconda3-4.3.1-Linux-x86_64.sh
+
+export tf_url=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0rc0-cp35m-linux_x86_64.whl
+
+wget https://github.com/tensorflow/tensorflow/archive/
+
+crilinux/d...9999
+
+https://github.com/crilinux/helloworld
+
